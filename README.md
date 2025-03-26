@@ -1,13 +1,33 @@
-🚀 Yasiru | Software Developer
-🔹 Passionate about web development, software engineering, and database management.
-🔹 Focused on building efficient and scalable systems.
-🔹 Experienced in Laravel, PHP, Java, MySQL, and NetBeans IDE.
+<h1>👋 Hey there, I'm Yasiru!</h1>
 
-📌 Projects
-YD Electrix – A web platform for electrical learning, tutorials, and blogs.
+💻 Software Developer | Web Developer | Python Enthusiast
+🔹 Passionate about software development, web technologies, and database management.
+🔹 Focused on building scalable, efficient, and user-friendly applications.
+🔹 Currently learning Python for application development.
 
-Pharmacy Management System – A Java-based inventory management system for pharmacies.
+<h1>🚀 About Me</h1>
+🔧 Tech Stack:
 
-OPD Management System – A digital solution for hospital outpatient department management.
+Languages: PHP, Java, Python, JavaScript, SQL
+
+Frameworks & Tools: Laravel, NetBeans, MySQL, Git, Flask (Learning)
+
+Databases: MySQL, SQLite
+
+👨‍💻 Projects:
+
+YD Electrix – A web-based educational platform for electrical learning and tutorials.
+
+Pharmacy Management System – A Java-based inventory system for pharmacists.
+
+OPD Management System – A digital hospital outpatient management system.
+
+Python Applications – Exploring Python for software and automation.
+
+📚 Currently Learning:
+
+Python for application development
+
+Flask & Django for backend development
 
 
