@@ -1,16 +1,13 @@
-## Hi there 👋
+🚀 Yasiru | Software Developer
+🔹 Passionate about web development, software engineering, and database management.
+🔹 Focused on building efficient and scalable systems.
+🔹 Experienced in Laravel, PHP, Java, MySQL, and NetBeans IDE.
 
-<!--
-**YasiruAK/YasiruAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 Projects
+YD Electrix – A web platform for electrical learning, tutorials, and blogs.
 
-Here are some ideas to get you started:
+Pharmacy Management System – A Java-based inventory management system for pharmacies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+OPD Management System – A digital solution for hospital outpatient department management.
+
+
