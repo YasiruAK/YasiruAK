@@ -1,7 +1,37 @@
 <h1 align="center">Hi 👋, I'm Yasiru Akalanaka</h1>
-<h3 align="center">A passionate frontend developer from Srilanka</h3>
+<h3 align="center">A passionate Software developer from Srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasiruak&label=Profile%20views&color=0e75b6&style=flat" alt="yasiruak" /> </p>
+
+💻 Software Developer | Web Developer | Python Enthusiast
+🔹 Passionate about software development, web technologies, and database management.
+🔹 Focused on building scalable, efficient, and user-friendly applications.
+🔹 Currently learning Python for application development.
+
+<h1>🚀 About Me</h1>
+🔧 Tech Stack:
+
+Languages: PHP, Java, Python, JavaScript, SQL
+
+Frameworks & Tools: Laravel, NetBeans, MySQL, Git, Flask (Learning)
+
+Databases: MySQL, SQLite
+
+👨‍💻 Projects:
+
+YD Electrix – A web-based educational platform for electrical learning and tutorials.
+
+Pharmacy Management System – A Java-based inventory system for pharmacists.
+
+Python Applications – Exploring Python for software and automation.
+
+📚 Currently Learning:
+
+Python for application development
+
+Flask & Django for backend development
+
+
 
 - 🔭 I’m currently working on **Odoo Development**
 
